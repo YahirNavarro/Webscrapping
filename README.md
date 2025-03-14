@@ -28,7 +28,7 @@ pip install requests beautifulsoup4 pillow
 
 Clonar el repositorio:
 
-git clone https://github.com/tu-usuario/webscraping-imagenes.git
+git clone (https://github.com/YahirNavarro/Webscrapping/blob/main/Webscrapping.py)
 
 Entrar en el directorio:
 
